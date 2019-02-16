@@ -8,7 +8,6 @@ class Ball extends Component {
       toValue: { x: 200, y: 500 },
       delay: 3000
     }).start();
-    this.tryNewThings = "hello";
   }
 
   render() {
